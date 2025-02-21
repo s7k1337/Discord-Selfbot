@@ -1,4 +1,4 @@
-# 🌴 Discord SelfBot
+# 💗 Discord SelfBot
 
 🤖 - A simple Discord selfbot made in NodeJS with couple of commands that could be found useful for someone. Made with <3
 
