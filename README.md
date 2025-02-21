@@ -25,14 +25,14 @@
 Before running the bot, make sure you have the following:
 
 - **Node.js**: Ensure Node.js is installed on your system. [Download Node.js here](https://nodejs.org/).
-- **.env file**: The `.env` file to store everything you need into.
+- **.env file**: Create `.env` file in your directory to store necessary information needed.
 
 ## Setup
 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/discord-bot.git
+    git clone https://github.com/s7k1337/discord-selfbot.git
     cd discord-selfbot
     ```
 
@@ -58,7 +58,7 @@ Before running the bot, make sure you have the following:
 
 5. **Optional: Fill `status.json`** (for the `!status` command):
 
-    If you want to use the custom rich presence function, fill the `status.json` file located in commands folder properly with all the informaton needed.
+    If you want to use the custom rich presence function, fill the `statuses.json` file located in commands folder properly with all the informaton needed.
 
     ```json
     {
